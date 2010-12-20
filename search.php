@@ -18,7 +18,7 @@
 
   /* variables section */
 
-  $dbaddr='mysql://joomla:joomla@localhost:3306/mnogosearch/?dbmode=blob'; 
+  $dbaddr='mysql://dbuser:dbpass@localhost:3306/mnogosearch/?dbmode=blob'; 
 
   $localcharset='iso-8859-1';
   $browsercharset='iso-8859-1';
